@@ -1,0 +1,5 @@
+# external requirements
+googledrivedownloader
+numpy
+scikit-image
+keras==2.2.4
