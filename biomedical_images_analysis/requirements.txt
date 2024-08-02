@@ -2,4 +2,4 @@
 googledrivedownloader
 numpy
 scikit-image
-keras==2.2.4
+keras==2.13.1
